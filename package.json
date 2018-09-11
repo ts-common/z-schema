@@ -1,5 +1,5 @@
 {
-  "name": "z-schema",
+  "name": "@ts-common/z-schema",
   "version": "3.24.0",
   "description": "JSON schema validator",
   "homepage": "https://github.com/zaggino/z-schema",
